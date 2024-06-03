@@ -1,4 +1,4 @@
-# BrainStation Data Science Capstone : Advanced Skin Segmentation for Enhanced Image Processing and Computer Vision Applications
+#  Advanced Skin Segmentation for Enhanced Image Processing and Computer Vision Applications
 ## Leveraging Machine Learning for Accurate Skin Detection
 =========================
 
