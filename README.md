@@ -1,5 +1,5 @@
-#  Advanced Skin Segmentation for Enhanced Image Processing and Computer Vision Applications
-## Leveraging Machine Learning for Accurate Skin Detection
+#  Advancing Automated Skin Cancer Detection 
+## Leveraging Machine Learning for Accurate Skin Cancer Detection
 =========================
 
 ### Executive Summary
